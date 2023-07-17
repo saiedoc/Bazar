@@ -23,12 +23,6 @@ Bazar allows us to buy and sell minecraft items. <br>
     - Python3-Module (via pip3): pybind11, pyside6 sowie fastapi[all]
     - PyQt5
 
-
-## GUI Design
-
-To check the UI design in figma follow the link: <br>
-https://www.figma.com/file/wRSnqXSSI0EaEr3yk4b94c/Bazar?type=design&node-id=0%3A1&mode=design&t=v5SeHBSRplECaXF6-1
-
 ## Build
 To build the project write following command (for Linux and MacOS)
 ```
